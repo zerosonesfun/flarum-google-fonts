@@ -1,25 +1,42 @@
 {
-    "name": "yourusername/flarum-bbcode-template",
-    "description": "Your description.",
+    "name": "zerosonesfun/flarum-google-fonts",
+    "description": "Various Google Fonts via BBCode.",
+    "type": "flarum-extension",
+    "keywords": ["discussion", "fonts", "bbcode"],
+    "license": "MIT",
     "authors": [
         {
-            "name": "Your Name",
+            "name": "Billy Wilcosky",
+            "homepage": "https://www.wilcosky.com",
             "role": "Creator"
         }
     ],
-    "type": "flarum-extension",
-    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/zerosonesfun/flarum-google-fonts/issues",
+        "source": "https://github.com/zerosonesfun/flarum-google-fonts",
+        "forum": "https://discuss.flarum.org"
+    },
+    "homepage": "https://www.wilcosky.com",
+    "funding": [
+        {
+            "type": "website",
+            "url": "https://www.wilcosky.com"
+        }
+    ],
     "require": {
-        "flarum/core": "^0.1.0-beta.8"
+        "flarum/core": "^0.1.0-beta.16"
     },
     "autoload": {
-        "psr-4": {"UserName\\bbcode-template\\": "src/"}
+        "psr-4": {
+            "ZerosOnesFun\\google-fonts\\": "src/"
+        }
     },
     "extra": {
         "flarum-extension": {
-            "title": "BBCode Template",
+            "title": "BBCode - Google Fonts",
+            "category": "feature",
             "icon": {
-                "name": "fas fa-bold",
+                "name": "fas fa-google",
                 "backgroundColor": "#ddd",
                 "color": "#000"
             }
