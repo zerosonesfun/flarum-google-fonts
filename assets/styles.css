@@ -1,10 +1,26 @@
 /* CSS for Google Fonts */
 
+.font-beth {
 font-family: 'Beth Ellen', cursive;
+}
+.font-mono {
 font-family: 'Cutive Mono', monospace;
+}
+.font-script {
 font-family: 'Dancing Script', cursive;
+}
+.font-gothic {
 font-family: 'Didact Gothic', sans-serif;
+}
+.font-baskerville {
 font-family: 'Libre Baskerville', serif;
+}
+.font-hand {
 font-family: 'Nothing You Could Do', cursive;
+}
+.font-roboto {
 font-family: 'Roboto', sans-serif;
+}
+.font-playfair {
 font-family: 'Playfair Display', serif;
+}
