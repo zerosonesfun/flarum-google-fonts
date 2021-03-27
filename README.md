@@ -30,12 +30,12 @@ font-family: 'Roboto', sans-serif;
 ~~~
 
 ## Install & Update
-`composer require zerosonesfun/flarum-google-font`
+`composer require zerosonesfun/flarum-google-fonts`
 
 `php flarum cache:clear`
 
 ## Remove
-`composer remove zerosonesfun/flarum-google-font`
+`composer remove zerosonesfun/flarum-google-fonts`
 
 (then, manually delete proper folder in your public assets folder)
 
