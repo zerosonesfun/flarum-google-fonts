@@ -36,7 +36,7 @@
             "title": "BBCode - Google Fonts",
             "category": "feature",
             "icon": {
-                "name": "fas fa-google",
+                "name": "fab fa-google",
                 "backgroundColor": "#ddd",
                 "color": "#000"
             }
