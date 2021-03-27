@@ -29,13 +29,8 @@ font-family: 'Playfair Display', serif;
 font-family: 'Roboto', sans-serif;
 ~~~
 
-## Install
+## Install & Update
 `composer require zerosonesfun/flarum-google-font`
-
-`php flarum cache:clear`
-
-## Update
-`composer update zerosonesfun/flarum-google-font`
 
 `php flarum cache:clear`
 
