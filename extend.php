@@ -21,7 +21,7 @@ return [
     (new Extend\Formatter)
         ->configure(function (Configurator $config) {
             $config->BBCodes->addCustom(
-                '[f="{TEXT1}"]{TEXT2}[/f]',
+                '[f={TEXT1}]{TEXT2}[/f]',
                 '<span class="{TEXT1}">{TEXT2}</span>'
             );
         })
