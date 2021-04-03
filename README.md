@@ -4,7 +4,7 @@ Adds various BBCode for changing font within a post to a particular Google Font.
 
 BBCode format (use f for font, equals name):
 
-`[f="script"]Your font will be all fancy now.[/f]`
+`[f=script]Your font will be all fancy now.[/f]`
 
 Names to use within BBCode opening tag:
 
