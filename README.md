@@ -1,5 +1,5 @@
 # Flarum Google Fonts BBCode
-Use most any Google Font thanks for Page CDN's "Easy Fonts" stylesheet.
+Use most any Google Font thanks to Page CDN's "Easy Fonts" stylesheet.
 Reference: https://pagecdn.com/lib/easyfonts
 
 The BBCode starts simply with f for font.
